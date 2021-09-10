@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 code added
 revision R1
 revision R2
 revision R3
+=======
+code added
+>>>>>>> parent of 95c66c5 (revision R1 to file1)
